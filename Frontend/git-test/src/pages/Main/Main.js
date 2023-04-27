@@ -9,6 +9,7 @@ export default function Main() {
       <img className="image" src="images/code.avif" alt="메인 이미지" />
       <Link to="/">
         <button className="button">이전으로</button>
+        
       </Link>
     </main>
   );
